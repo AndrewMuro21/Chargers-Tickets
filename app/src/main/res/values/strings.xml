@@ -8,5 +8,11 @@
     <string name="order">Order</string>
     <string name="order_id">Order #%d</string>
     <string name="ticket_id">Order #%d</string>
-    <string name="hello_blank_fragment">Hi</string>
+    <string name="team_at_team">%1$s @ %2$s</string>
+    <string name="game_heading">Week %1$d - %2$s</string>
+    <string name="bye">BYE</string>
+    <string name="hello_blank_fragment">HI</string>
+    <string name="all">All</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
 </resources>
